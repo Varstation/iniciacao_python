@@ -32,7 +32,7 @@ Você irá obter uma tela uma tela similar ao da imagem abaixo:
 2. Instalar o Anaconda baixado através pelo comando:
 > bash /caminho_do_download/Anaconda3-2020.02-Linux-x86_64.sh
 
-3. O prompt retorn a mensagem 
+3. O prompt retorna a mensagem 
 ```
 “Do you wish the installer to initialize Anaconda3 by running conda init?”
 ```

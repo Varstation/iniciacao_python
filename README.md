@@ -16,9 +16,12 @@ De forma geral, para instalar o Anaconda:
 2. Instalar o Anaconda com as configurações padrões da distribuição.
 <br>
 <br>
-3. Abrir o Navegador do Anaconda ![Anaconda_logo](/imgs/Anaconda_icon.jpg)
+3. Abrir o Navegador do Anaconda
+
+![Anaconda_logo](/imgs/Anaconda_icon.jpg)
 <br>
 Você irá obter uma tela uma tela similar ao da imagem abaixo:
+
 ![Anaconda2](/imgs/anaconda2.jpg)
 <br>
 4. Abrir o IDE desejado: Seja o Spyder ou o Jupter Notebook ou JupyterLab
